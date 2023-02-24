@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
+#Tes Login Log out By Tekad Abdul Aziz
 class LoginTest(unittest.TestCase):
 
     def setUp(self):
