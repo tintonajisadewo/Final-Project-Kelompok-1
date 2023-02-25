@@ -35,4 +35,6 @@ https://drive.google.com/drive/folders/1mieqFZGRtadRJ5nONGlYoxwKYPSCrfAH?usp=sha
 4.Wahid Habibullah - Menu PIM - Employee List<br>
 Manual<br>
 https://drive.google.com/drive/folders/1fNyP6grCL09OEucbNySWV1WMfAqpH1I0?usp=share_link
+Automation<br>
+
 5.Reksi Firmansyah - Menu PIM - Add Employee<br>
