@@ -18,6 +18,10 @@ https://docs.google.com/spreadsheets/d/1hWfFYPq89DOL4wPyfLDLAYS2cirRHofrd7wTXMnh
 
 Test Evidence<br>
 1.Tekad Abdul Aziz - Login & Logout<br>
+Manual<br>
+https://docs.google.com/spreadsheets/d/1hWfFYPq89DOL4wPyfLDLAYS2cirRHofrd7wTXMnhtHg/edit#gid=0 <br>
+Automation<br>
+https://drive.google.com/drive/folders/1rUWjSOTlgwch_y0TV9nFUj1cXyDRvRrK?usp=sharing <br>
 2.Resta Rizcy Putra - Menu Admin - Job - Job Titles<br>
 Manual<br>
 https://drive.google.com/drive/folders/16U8rxxwjKKdK3DgzygR5Mn-gb64DBunL?usp=share_link<br>
