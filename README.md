@@ -33,4 +33,6 @@ https://drive.google.com/drive/folders/1F6JlvkWGUCuo82Te6MdpbSsbtNVHhchS?usp=sha
 Automation<br>
 https://drive.google.com/drive/folders/1mieqFZGRtadRJ5nONGlYoxwKYPSCrfAH?usp=share_link<br>
 4.Wahid Habibullah - Menu PIM - Employee List<br>
+Manual<br>
+https://drive.google.com/drive/folders/1fNyP6grCL09OEucbNySWV1WMfAqpH1I0?usp=share_link
 5.Reksi Firmansyah - Menu PIM - Add Employee<br>
