@@ -38,3 +38,7 @@ https://drive.google.com/drive/folders/1fNyP6grCL09OEucbNySWV1WMfAqpH1I0?usp=sha
 Automation<br>
 
 5.Reksi Firmansyah - Menu PIM - Add Employee<br>
+Manual<br>
+https://docs.google.com/spreadsheets/d/1hWfFYPq89DOL4wPyfLDLAYS2cirRHofrd7wTXMnhtHg/edit#gid=512605237
+Automation<br>
+https://drive.google.com/drive/folders/15hm8OQO89h_FbSRIqVSd6q782jOHC0RM
