@@ -39,6 +39,6 @@ Automation<br>
 
 5.Reksi Firmansyah - Menu PIM - Add Employee<br>
 Manual<br>
-https://docs.google.com/spreadsheets/d/1hWfFYPq89DOL4wPyfLDLAYS2cirRHofrd7wTXMnhtHg/edit#gid=512605237
+https://docs.google.com/spreadsheets/d/1hWfFYPq89DOL4wPyfLDLAYS2cirRHofrd7wTXMnhtHg/edit#gid=512605237<br>
 Automation<br>
 https://drive.google.com/drive/folders/15hm8OQO89h_FbSRIqVSd6q782jOHC0RM
